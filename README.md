@@ -1,2 +1,2 @@
-# To-Do-List-B-sica
+# To-Do-List Básica
 Uma lista de tarefas simples desenvolvida com HTML, CSS e JavaScript. / 
